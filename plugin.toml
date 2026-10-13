@@ -1,0 +1,7 @@
+schema = 1
+id = "annotate"
+name = "Annotate"
+version = "0.1.0"
+description = "Threaded comments on any block, sent to agents on demand or in batches; quick to-do capture."
+icon = "sparkle"
+window = "window.luau"
