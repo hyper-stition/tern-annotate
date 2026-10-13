@@ -2,7 +2,7 @@
 
 Comment on a snapshot of any Tern block (an agent's reply, a file, a web page, a terminal), then send the edit comments to an agent on demand or in batches. Questions go to Carly and her answer is saved in the comment's thread. To-dos become cards on a Markdown board.
 
-**Status: prototype.** Written on Windows 11 with Tern 0.8.3. It works, but it fights the plugin API in several places (see [Limits](#limits)); the point of publishing it is to show the workflow, and to ask for it as a built-in Tern feature: <https://github.com/stencil-hq/tern-sdk/issues> (search "Annotate any block").
+**Status: prototype.** Written on Windows 11 with Tern 0.8.3. It works, but it fights the plugin API in several places (see [Limits](#limits)); the point of publishing it is to show the workflow, and to ask for it as a built-in Tern feature: <https://github.com/stencil-hq/tern-sdk/issues/51>.
 
 ## Why
 
